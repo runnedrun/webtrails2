@@ -1,0 +1,27 @@
+{
+  "name": "webtrails",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "*",
+    "jade": "*",
+    "sequelize": "*",
+    "pg": "*",    
+    "connect-redis": "*",    
+    "redis": "*",
+    "request": "*",
+    "pg-hstore": "*",
+    "passport-google-oauth": "*",
+    "passport": "*",
+    "bcrypt-as-promised": "*",
+    "node-gyp": "*",
+    "connect-flash": "*",
+    "express-session": "*",
+    "repl-promised": "*",
+    "repl": "*",
+    "lodash": "*"
+  }
+}

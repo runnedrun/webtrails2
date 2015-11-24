@@ -1,0 +1,4 @@
+redis-server
+foreman start -f Procfile.dev -e devel.env
+
+In production use the google callback domain betahipster.com
